@@ -1,0 +1,11 @@
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\bin\Debug\Creative_Temperature List.exe.config
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\bin\Debug\Creative_Temperature List.exe
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\bin\Debug\Creative_Temperature List.pdb
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature List.csprojAssemblyReference.cache
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature_List.Properties.Resources.resources
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature List.csproj.GenerateResource.cache
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature List.csproj.CoreCompileInputs.cache
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature List.exe
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature List.pdb
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature_List.Temp.resources
+C:\Users\KAYMAR\Downloads\Classes\2nd Semester Year 1\CMPG 122\Work\202010 Week 9 SU4\Creative_Temperature List\Creative_Temperature List\obj\Debug\Creative_Temperature_List.TempRes.resources

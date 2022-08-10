@@ -1,4 +1,4 @@
-# Temperature-Sorting - Development
+# Temperature-Sorting - Production
 This was a creative assignment where I learnt the use of working with existing data.
 
 We were offered a creative assignment where I created a windows forms application that would sort a list for you which I mainly based in temperature, meaning numbers in this case. This application would show you the lowest and highest temperature from a list including the average and difference in between.
